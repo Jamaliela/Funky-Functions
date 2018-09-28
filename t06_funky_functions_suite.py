@@ -34,7 +34,7 @@ def testit(did_pass):
     print(msg)
 
 
-def funky_functions_test_suite():
+def funky_functions_suite():
     """
     The test_suite function utilizes the testit() function,
     and is designed to test the willaby_wallaby() function.
@@ -63,7 +63,7 @@ def main():
     :return: None
     """
 
-    funky_functions_test_suite()
+    funky_functions_suite()
 
 
 if __name__ == "__main__":

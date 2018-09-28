@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your names
-# Username: heggens             TODO: Change this to your usernames
+# Author: Emily Lovell & Scott Heggen      TODO: Change this to your names
+# Username: lovelle & heggens             TODO: Change this to your usernames
 #
 # Assignment: T06: Funky Functions
 # Purpose:  Some functions to play around with and understand return values
