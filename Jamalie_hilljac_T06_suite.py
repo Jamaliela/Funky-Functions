@@ -41,14 +41,14 @@ def day_name_suite():
     """
     print("\nRunning the day_name_test_suite()).")
 
-    test(day_name(0) == "Sunday")
-    test(day_name(50) == None)
-    test(day_name(6) == "Saturday")
-    test(day_name(-2) == None)
-    test(day_name(1) == "Monday")
-    test(day_name(3) == "Wednesday")
-    test(day_name(5) == "Friday")
-    test(day_name(2) == "Tuesday")
+    testit(day_name(0) == "Sunday")
+    testit(day_name(50) == None)
+    testit(day_name(6) == "Saturday")
+    testit(day_name(-2) == None)
+    testit(day_name(1) == "Monday")
+    testit(day_name(3) == "Wednesday")
+    testit(day_name(5) == "Friday")
+    testit(day_name(2) == "Tuesday")
 
     print("\nEnding the day_name_test_suite()).")
 
